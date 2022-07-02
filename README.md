@@ -1,11 +1,13 @@
 # SMART-AGRICULTURE-FARMING
 Smart Agriculture Farming using IoT for Efficient Crop Growth
-/* ########################################################################################################################
- * ########################     SMART Agriculture Farming Using IoT for Efficient Crop Growth     #########################
- * ########################################################################################################################
- * SMART Agriculture Farming is a open source project done to ease the use of efficient resources. The project focuses on the different aspects of the soil coditions
- * such as soil moisture and soil NPK values and controls the values by either the irrigation system or the nutrient supply system. The project uses the ESP8266 to 
- * connect to the Blynk servers to fetch or post values. The app can be replicated using the QR code.
+/* ######################################################################################################
+ * ###############     SMART Agriculture Farming Using IoT for Efficient Crop Growth     ################
+ * ######################################################################################################
+ * SMART Agriculture Farming is a open source project done to ease the use of efficient resources. The 
+ * project focuses on the different aspects of the soil coditions such as soil moisture and soil NPK 
+ * values and controls the values by either the irrigation system or the nutrient supply system. The 
+ * project uses the ESP8266 to connect to the Blynk servers to fetch or post values. The app can be 
+ * replicated using the QR code.
  * 
  * THE PROJECT IS OPEN-SOURCE MEANING YOU CAN CHANGE ANY ASPECT OF THE PROJECT AND POST IT WITHOUT MY CONCENT!
  * so happy coding :)
@@ -111,7 +113,8 @@ Smart Agriculture Farming using IoT for Efficient Crop Growth
  * 
  * 
  * NOTE:-
- * The sensors are simply plug and play so if it cant find any sensor it will disable and you can also manually disable them through the code.
+ * The sensors are simply plug and play so if it cant find any sensor it will disable and you can also 
+ * manually disable them through the code.
  * Just make the value false for the sensor name variable.
  * for e.g MQ4 = false;
  * 
