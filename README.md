@@ -1,8 +1,9 @@
 # SMART-AGRICULTURE-FARMING
 Smart Agriculture Farming using IoT for Efficient Crop Growth
-/* ######################################################################################################
+
+/* #####################################################################################
  * ###############     SMART Agriculture Farming Using IoT for Efficient Crop Growth     ################
- * ######################################################################################################
+ * #####################################################################################
  * SMART Agriculture Farming is a open source project done to ease the use of efficient resources. The 
  * project focuses on the different aspects of the soil coditions such as soil moisture and soil NPK 
  * values and controls the values by either the irrigation system or the nutrient supply system. The 
