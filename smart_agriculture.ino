@@ -160,9 +160,9 @@
 
 
 ///////////////GLOBAL VARIABLES///////////////
-char auth[] = "Cxbm2LYnW8iPsFIqagI9aIZc8N_yNhAa";   /*authentication code sent to your email*/
-char ssid[] = "Airtel";                             /*Wifi SSID*/
-char pass[] = "mamata@123456";                      /*Wifi password*/
+char auth[] = "AUTH";                             /*authentication code sent to your email*/
+char ssid[] = "SSID";                             /*Wifi SSID*/
+char pass[] = "PASS";                             /*Wifi password*/
 
 bool BME280 = true;                                 /*enable BME280 (false to disable)*/
 
